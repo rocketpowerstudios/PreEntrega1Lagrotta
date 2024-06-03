@@ -1,0 +1,3 @@
+# PreEntrega1Lagrotta
+Con los conocimientos vistos hasta el momento, empecé la estructura inicial de mi proyecto integrador a partir de los ejemplos mostrados la primera clase . Esta plataforma está diseñada para una empresa especializada en la recuperación de vehículos cuyos propietarios han dejado de pagar sus préstamos a los bancos. La herramienta permitirá gestionar de manera eficiente el seguimiento de los clientes morosos, administrar el equipo de recaudadores y controlar toda la información relevante relacionada con los casos de recaudación. En esta versión los inputs están deshabilitados y únicamente puedes verificar en la base de datos los clientes morosos que estan en la misma. Se utilizaron condicionales, if/else, while y for para hacer el algoritmo. 
+
